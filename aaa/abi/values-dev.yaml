@@ -1,0 +1,7 @@
+template-a:
+  envCode: dev
+  image:
+    repository: nexus.abc.com
+    tag: "2025.08.27.0120"
+  argoRollout:
+    enabled: true
